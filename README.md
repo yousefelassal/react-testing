@@ -1,3 +1,3 @@
 <div align="center">
-    <a href="https://www.theodinproject.com/lessons/node-path-react-new-introduction-to-react-testing"><h1>React Testing</h1></a>
+    <h1><a href="https://www.theodinproject.com/lessons/node-path-react-new-introduction-to-react-testing">React Testing</a></h1>
 </div>
